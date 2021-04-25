@@ -225,6 +225,6 @@ int main()
         iloscOperacji += listaWierzcholkow[i].iloscOdbic;
     cout << "TAK" << endl;
     cout << iloscOperacji << endl;
-   // DrukujeWartosciOdbicWierzcholkow();
+    DrukujeWartosciOdbicWierzcholkow();
     return 0;
 }
